@@ -1,8 +1,8 @@
 # Data-Analysis-for-the-High-School-Final-Exams-in-Egypt
 
-### First Exams Data Cleaning Kaggle Notebook :
-### First Exams Specializations EDA Kaggle Notebook :
-### Second Exams Specializations EDA Kaggle Notebook :
+### [First Exams Data Cleaning Kaggle Notebook](https://www.kaggle.com/code/abduulrahmankhalid/egypt-high-school-results-data-cleaning)
+### [First Exams Specializations EDA Kaggle Notebook](https://www.kaggle.com/code/abduulrahmankhalid/thanawya-amma-first-exams-specializations-eda)
+### [Second Exams Specializations EDA Kaggle Notebook](https://www.kaggle.com/code/abduulrahmankhalid/thanawya-amma-second-exams-specializations-eda)
 
 #### This Repostitory is the part of my work as a Data Science Collabrator with Omdena Giza Local Chapter.
 

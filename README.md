@@ -4,7 +4,7 @@
 ### [First Exams Specializations EDA Kaggle Notebook](https://www.kaggle.com/code/abduulrahmankhalid/thanawya-amma-first-exams-specializations-eda)
 ### [Second Exams Specializations EDA Kaggle Notebook](https://www.kaggle.com/code/abduulrahmankhalid/thanawya-amma-second-exams-specializations-eda)
 
-#### This Repostitory is the part of my work as a Data Science Collabrator with Omdena Giza Local Chapter.
+#### This Repostitory is the Part of My Work as a Data Science Collabrator with Omdena Giza Local Chapter.
 
 - Applied Data Cleaning to the Scraped First and Second Data Exams Datasets using Pandas.
 - Split it by Specialization to Perform Exploratory Data Analysis.

@@ -1,5 +1,5 @@
 # Data-Analysis-for-the-High-School-Final-Exams-in-Egypt
-Analysis For High School (Thanawya Amma) Student Exams Grades in Egypt.
+
 ### First Exams Data Cleaning Kaggle Notebook :
 ### First Exams Specializations EDA Kaggle Notebook :
 ### Second Exams Specializations EDA Kaggle Notebook :

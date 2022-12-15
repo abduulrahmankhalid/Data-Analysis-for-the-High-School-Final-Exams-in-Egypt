@@ -7,6 +7,9 @@
 #### This Repostitory is the Part of My Work as a Data Science Collabrator with Omdena Giza Local Chapter.
 
  - Applied Data Cleaning to the Scraped First and Second Data Exams Datasets using Pandas.
+ 
  - Split it by Specialization to Perform Exploratory Data Analysis.
+ 
  - Made an Interactive Visualization for each Specialization using Plotly, Matplotlib, and Seabron Python libraries.
+ 
  - Delivering Interesting Insights and Comparisons about Student Grades across Specializations.

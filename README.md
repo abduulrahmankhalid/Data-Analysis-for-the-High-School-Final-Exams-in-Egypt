@@ -12,4 +12,4 @@
  
  - Made an Interactive Visualization for each Specialization using Plotly, Matplotlib, and Seabron Python libraries.
  
- - Delivering Interesting Insights and Comparisons about Student Grades across Specializations.
+ - Delivering Interesting Insights and Comparisons about Student Grades in Thanawya Amma across Specializations.

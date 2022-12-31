@@ -14,8 +14,3 @@
  
  - Delivering Interesting Insights and Comparisons about Student Grades in Thanawya Amma across Specializations.
 
-# Certificate of Completion
-<a target="_blank" href="https://verified.sertifier.com/en/verify/34276440270174">
-      <img src="https://user-images.githubusercontent.com/76521677/210136798-0aa989e1-7928-4c9d-b977-d239f70c927b.png" alt="">
-</a>
-
